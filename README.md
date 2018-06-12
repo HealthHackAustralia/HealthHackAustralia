@@ -16,10 +16,6 @@ Code for previous HealthHacks Australia events is available:
 
 [HealthHack 2017 Github]
 
-[HealthHack 2016 Github]
-
-[HealthHack 2017 Github]
-
 Please note: These repositories may not have been maintained over time, and may contain security flaws within the code, or in dependent packages. 
 
 
