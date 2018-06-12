@@ -26,7 +26,7 @@ Please note: These repositories may not have been maintained over time, and may 
 [website]: https://www.healthhack.com.au/
 [HealthHack 2018 GitHub]: https://github.com/HealthHackAu2018
 
-[HealthHack 2014 GitHub]: https://github.com/HealthHackAu2015/HealthHack2014/wiki
+[HealthHack 2014 GitHub]: https://github.com/HealthHackAu2014/HealthHack2014/wiki
 [HealthHack 2015 Github]: https://github.com/HealthHackAu2015
 [HealthHack 2016 Github]: https://github.com/HealthHackAu2016
 [HealthHack 2017 Github]: https://github.com/HealthHackAu2017
