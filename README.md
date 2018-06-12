@@ -8,6 +8,8 @@ HealthHack 2018 code will be available here: [HealthHack 2018 GitHub]
 
 Code for previous HealthHacks Australia events is available:
 
+[HealthHack 2013 GitHub] and [Wiki][HealthHack 2013 Wiki]
+
 [HealthHack 2014 GitHub] and [Wiki][HealthHack 2014 Wiki]
 
 [HealthHack 2015 Github]
