@@ -21,7 +21,10 @@ Code for previous HealthHacks Australia events is available:
 Please note: These repositories may not have been maintained over time, and may contain security flaws within the code, or in dependent packages. 
 
 
+HealthHack is run under the auspices of [Linux Australia][LAwebsite].
+
 [website]: https://www.healthhack.com.au/
+[LAwebsite]: https://linux.org.au/
 [HealthHack 2018 GitHub]: https://github.com/HealthHackAu2018
 
 [HealthHack 2013 GitHub]: https://github.com/HealthHackAu2013
