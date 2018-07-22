@@ -1,4 +1,4 @@
-# Health Hack
+# HealthHack
 
 HealthHack is a free event that brings researchers, students and healthcare professionals together with other scientists, software developers, educators, engineers and designers to create innovative solutions to interesting problems. HealthHack is strictly not for profit and is run by volunteers.
 
