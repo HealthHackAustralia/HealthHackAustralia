@@ -4,8 +4,6 @@ HealthHack is a free event that brings researchers, students and healthcare prof
 
 **HealthHack Brisbane will be held 14-16 September 2018 at Thoughtworks. Please see our [website] for more information.**
 
-HealthHack 2018 code will be available here: [HealthHack 2018 GitHub]
-
 Code for previous HealthHacks Australia events is available:
 
 [HealthHack 2013 GitHub] and [Wiki][HealthHack 2013 Wiki]
@@ -17,6 +15,8 @@ Code for previous HealthHacks Australia events is available:
 [HealthHack 2016 Github]
 
 [HealthHack 2017 Github]
+
+[HealthHack 2018 GitHub]
 
 Please note: These repositories may not have been maintained over time, and may contain security flaws within the code, or in dependent packages. 
 <br /><br />
