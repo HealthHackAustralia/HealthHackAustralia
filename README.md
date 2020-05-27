@@ -2,7 +2,7 @@
 
 HealthHack is a free event that brings researchers, students and healthcare professionals together with other scientists, software developers, educators, engineers and designers to create innovative solutions to interesting problems. HealthHack is strictly not for profit and is run by volunteers.
 
-**HealthHack Brisbane was most recently held 20-22 September 2019 at Thoughtworks. Please see our [website] for more information.**
+**HealthHack 2020 will be held as a virtual event over two weekends, starting on the 24th of July and continue on the weekend of the 31st. Please see our [website] for more information.**
 
 Code for previous HealthHacks Australia events is available:
 
@@ -20,6 +20,8 @@ Code for previous HealthHacks Australia events is available:
 
 [HealthHack 2019 GitHub]
 
+[HealthHack 2020 GitHub]
+
 Please note: These repositories may not have been maintained over time, and may contain security flaws within the code, or in dependent packages. 
 <br /><br />
 
@@ -29,7 +31,6 @@ HealthHack is run under the auspices of [Linux Australia][LAwebsite].
 
 [website]: https://www.healthhack.com.au/
 [LAwebsite]: https://linux.org.au/
-[HealthHack 2019 GitHub]: https://github.com/HealthHackAu2019
 
 [HealthHack 2013 GitHub]: https://github.com/HealthHackAu2013
 [HealthHack 2013 Wiki]: https://github.com/HealthHackAu2013/wiki/wiki
@@ -39,3 +40,5 @@ HealthHack is run under the auspices of [Linux Australia][LAwebsite].
 [HealthHack 2016 Github]: https://github.com/HealthHackAu2016
 [HealthHack 2017 Github]: https://github.com/HealthHackAu2017
 [HealthHack 2018 GitHub]: https://github.com/HealthHackAu2018
+[HealthHack 2019 GitHub]: https://github.com/HealthHackAu2019
+[HealthHack 2020 GitHub]: https://github.com/HealthHackAu2020
